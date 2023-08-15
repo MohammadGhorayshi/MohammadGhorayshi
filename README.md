@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I’m currently working on PHP, Laravel, Javascript, NodeJS, Codeigneiter and Python<br>👯 I’m looking to collaborate with other developers to build mobile app or websit that make .<br>👯 I'm looking to collaborate with designers, marketers, or other professionals to create e-commerce platform, a social media app, or a health and wellness service.<br>🤝 I'm looking for a mentor or tutor to help me improve my skills in ReactJs, NextJS, Python for make a good web application and manage team.<br>🌱 I’m currently learning everything that I'm need.<br>💬 Ask me about everything but suggest you ask from ChatGPT.<br>⚡ Fun fact: I am continuously learning.
+🔭 I’m currently working on PHP, Laravel, Javascript, NodeJS, Next.js, Codeigneiter and Python<br>👯 I’m looking to collaborate with other developers to build mobile app or websit that make .<br>👯 I'm looking to collaborate with designers, marketers, or other professionals to create e-commerce platform, a social media app, or a health and wellness service.<br>🤝 I'm looking for a mentor or tutor to help me improve my skills in ReactJs, NextJS, Python for make a good web application and manage team.<br>🌱 I’m currently learning everything that I'm need.<br>💬 Ask me about everything but suggest you ask from ChatGPT.<br>⚡ Fun fact: I am continuously learning.
 
 
 ## 🌐 Socials:
